@@ -76,7 +76,7 @@ Puedes probarlo haciendo clic en este link:
 
 Para mas información este es el enlace al repositorio:
 
-**Repositorio:** https://github.com/franco497/Pagina-est-tica-react
+**Repositorio:** https://github.com/franco497/Pagina-estatica-react
 
 
 ---
