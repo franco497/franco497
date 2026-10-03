@@ -92,6 +92,18 @@ Sitio web informativo desarrollado con **React** sobre sueños lúcidos, técnic
 
 ## 💼 Experiencia
 
+### Full Stack Developer — Sistema de Gestión para Parrilla (Freelance)
+
+Desarrollo y mantenimiento de un sistema web de gestión integral para un restaurante parrilla, actualmente en producción y siendo utilizado a diario por el cliente.
+
+El sistema administra 47 mesas con estados dinámicos, reservas, asignación de mozos, pedidos, control de stock y generación automática de tickets térmicos y facturas en PDF.
+
+Tecnologías y herramientas utilizadas:
+
+**React | Vite | Supabase | PostgreSQL | Row Level Security (RLS) | Magic Links | jsPDF | CSS3 | Netlify**
+
+---
+
 ### Backend Developer — Freelance
 
 Experiencia profesional en el desarrollo y mantenimiento de un sistema CRM empresarial.
