@@ -122,7 +122,7 @@ Participación en una simulación laboral formando parte de un equipo de desarro
 
 Trabajo con tecnologías y herramientas como:
 
-**Node.js | Fastify | MongoDB | Prisma ORM | REST APIs | JWT | Arquitectura Hexagonal | React | Redux Toolkit | Axios**
+**Node.js | Fastify | MongoDB | Prisma ORM | REST APIs | JWT | Arquitectura Hexagonal | React | Axios**
 
 ---
 
