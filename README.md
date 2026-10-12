@@ -1,3 +1,5 @@
+![Banner de Franco De Vincentis](./assets/La-esencia-invisible-bajo-la-superficie.png)
+
 # 👋 Hola, soy Franco De Vincentis
 
 ## Backend Developer | Full Stack Developer
